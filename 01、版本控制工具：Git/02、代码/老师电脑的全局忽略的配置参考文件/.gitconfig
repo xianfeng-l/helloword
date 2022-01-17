@@ -1,0 +1,11 @@
+[core]
+    excludesfile = C:/Users/it/Java.gitignore
+[gui]
+	recentrepo = D:/00000000000
+[user]
+	email = cfei.net@gmail.com
+	name = Johnny.Chen
+[http]
+	postBuffer = 524288000
+[credential]
+	helper = manager
